@@ -1,0 +1,14 @@
+C:\Users\hamid.mammadov\Desktop\P229\StringMethods\StringMethods\bin\Debug\netcoreapp3.1\StringMethods.exe
+C:\Users\hamid.mammadov\Desktop\P229\StringMethods\StringMethods\bin\Debug\netcoreapp3.1\StringMethods.deps.json
+C:\Users\hamid.mammadov\Desktop\P229\StringMethods\StringMethods\bin\Debug\netcoreapp3.1\StringMethods.runtimeconfig.json
+C:\Users\hamid.mammadov\Desktop\P229\StringMethods\StringMethods\bin\Debug\netcoreapp3.1\StringMethods.runtimeconfig.dev.json
+C:\Users\hamid.mammadov\Desktop\P229\StringMethods\StringMethods\bin\Debug\netcoreapp3.1\StringMethods.dll
+C:\Users\hamid.mammadov\Desktop\P229\StringMethods\StringMethods\bin\Debug\netcoreapp3.1\StringMethods.pdb
+C:\Users\hamid.mammadov\Desktop\P229\StringMethods\StringMethods\obj\Debug\netcoreapp3.1\StringMethods.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\Desktop\P229\StringMethods\StringMethods\obj\Debug\netcoreapp3.1\StringMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P229\StringMethods\StringMethods\obj\Debug\netcoreapp3.1\StringMethods.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P229\StringMethods\StringMethods\obj\Debug\netcoreapp3.1\StringMethods.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P229\StringMethods\StringMethods\obj\Debug\netcoreapp3.1\StringMethods.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P229\StringMethods\StringMethods\obj\Debug\netcoreapp3.1\StringMethods.dll
+C:\Users\hamid.mammadov\Desktop\P229\StringMethods\StringMethods\obj\Debug\netcoreapp3.1\StringMethods.pdb
+C:\Users\hamid.mammadov\Desktop\P229\StringMethods\StringMethods\obj\Debug\netcoreapp3.1\StringMethods.genruntimeconfig.cache
